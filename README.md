@@ -1,3 +1,31 @@
+# Todo List App
+
+This is a simple Todo List application built with React. It allows you to add, complete, and delete tasks.
+
+## Folder Structure
+
+The project structure is as follows:
+
+├── public/
+│ ├── index.html
+├── src/
+│ |── App.js
+│ ├── App.css
+│ ├── index.js
+├── package.json
+└── README.md
+
+
+- The `public/` folder contains the `index.html` file, which is the entry point for the React application.
+- The `src/` folder contains the source code of the application.
+  - The `App.js` file contains the main component of the application.
+  - The `App.css` file contains the styling for the application.
+  - The `index.js` file is the entry point for the React application.
+  - The `index.css` file contains global styling for the application.
+- The `package.json` file lists the project dependencies and scripts.
+- The `README.md` file provides information about the project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
